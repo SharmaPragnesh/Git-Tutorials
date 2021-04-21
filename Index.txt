@@ -1,1 +1,1 @@
-This is the first file in bit
+This is the first file in bit, but now it's modified
