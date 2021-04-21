@@ -1,0 +1,2 @@
+https://asbnotebook.com/2020/09/19/emitting-events-from-child-to-parent-component-angular/
+https://github.com/asbnotebook/angular-basic-examples
