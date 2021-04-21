@@ -1,0 +1,17 @@
+<div class="container">
+  <ul class="nav nav-pills">
+    <li>
+      <a [routerLink]="'/'" routerLinkActive="active"> Dashboard </a>
+    </li>
+    <li>
+      <a [routerLink]="'/profile'" routerLinkActive="active"> Profile </a>
+    </li>
+    <li>
+      <a [routerLink]="'/attendance'" routerLinkActive="active"> Attendance </a>
+    </li>
+    <li>
+      <a [routerLink]="'/leaves'" routerLinkActive="active"> leaves </a>
+    </li>
+  </ul>
+  <router-outlet></router-outlet>
+</div>
